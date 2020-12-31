@@ -40,7 +40,15 @@ Please expect this simulation to take a few minutes to run, depending on the spe
 
 ## Resulting Visuals ##
 
-Your results will be packaged in a dashboard for you to view. 
+Your results will be packaged in a dashboard for you to view.
+![Welcome Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Welcome%20Tab.PNG)
+![Historical Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Historical%20Tab.PNG)
+![Expected Returns Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/User's%20Expected%20Returns.PNG)
+![Opportunity Cost](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Opportunity%20Cost.PNG)
+![$1 Million Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Saving%201%20million.PNG)
+
+
+# ***Info for Instructors*** #
 
 ## Day 1 ##
 
