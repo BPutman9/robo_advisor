@@ -2,6 +2,46 @@
 
 ![](https://digital.hbs.edu/platform-rctom/wp-content/uploads/sites/4/2018/11/investorjunkie-robo-advisors-4-1-421x200.jpg)
 
+## New Users Start Here ##
+
+Thank you for choosing our Robo Advisor tool to help get you started in investing. To use our program, you'll need to make sure you have a few basic requirements installed.
+
+- Python version 3.7 or later [Anaconda](https://www.anaconda.com/products/individual)
+  - Once installed, make sure to set up Jupyter Lab as well. In your terminal, run the command, "conda install -c conda-forge jupyterlab"
+  - The necessary Python libraries and links to their documentation to help get you started:
+    - [Pandas](https://pandas.pydata.org/docs/)
+    - [Panel](https://panel.holoviz.org/)
+    - [Plotly Express](https://plotly.com/python/plotly-express/)
+    - [HV Plot](https://hvplot.holoviz.org/)
+    - [Matplotlib](https://matplotlib.org/)
+    - [Numpy](https://numpy.org/install/)
+    - [OS](https://docs.python.org/3/library/os.html)
+    - [Dotenv](https://pypi.org/project/python-dotenv/)
+    - [Requests](https://pypi.org/project/requests/)
+    - [Alpaca Trade API](https://alpaca.markets/docs/api-documentation/)
+    - ***Optional*** [Pyttsx3](https://pypi.org/project/pyttsx3/)
+    
+- There are a few files leveraged by the program for creating historical returns visuals and for running the monte carlo simulation. These are included in the Git Hub project folder [here](https://github.com/BPutman9/robo_advisor)
+
+**The file for running the program is Inputs_data_pulls_3.ipynb **
+
+When running the program, the software will prompt you for some user inputs to help customize your investment options and resulting dashboard:
+- Name
+- Age
+- Desired retirement age
+- Your experience with various investments 
+- Tolerance for risk 
+- Asset classes
+- Starting investment amount
+- Annual contribution amount
+
+Based on your inputs, Alpaca will retrieve the appropriate ticker symbols to include in the Monte Carlo simulation. 
+Please expect this simulation to take a few minutes to run, depending on the speed of your computer, and number of assets selected. 
+
+## Resulting Visuals ##
+
+Your results will be packaged in a dashboard for you to view. 
+
 ## Day 1 ##
 
 ## Project Summary ##
