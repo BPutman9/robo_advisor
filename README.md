@@ -23,7 +23,7 @@ Thank you for choosing our Robo Advisor tool to help get you started in investin
     
 - There are a few files leveraged by the program for creating historical returns visuals and for running the monte carlo simulation. These are included in the Git Hub project folder [here](https://github.com/BPutman9/robo_advisor)
 
-**The file for running the program is Inputs_data_pulls_3.ipynb **
+### **The file for running the program is Inputs_data_pulls_3.ipynb** ###
 
 When running the program, the software will prompt you for some user inputs to help customize your investment options and resulting dashboard:
 - Name
@@ -40,13 +40,14 @@ Please expect this simulation to take a few minutes to run, depending on the spe
 
 ## Resulting Visuals ##
 
-Your results will be packaged in a dashboard for you to view.
+Your results will be packaged in a dashboard for you to view. The result of your simulation will be displayed in the "Expected Returns" tab of the dashboard. The opportunity cost of simply placing your retirement contributions into a traditional savings account, as opposed to your selected investments will be displayed on the "Opportunity Cost" tab. 
 ![Welcome Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Welcome%20Tab.PNG)
 ![Historical Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Historical%20Tab.PNG)
 ![Expected Returns Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/User's%20Expected%20Returns.PNG)
 ![Opportunity Cost](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Opportunity%20Cost.PNG)
 ![$1 Million Tab](https://github.com/BPutman9/robo_advisor/blob/main/PNG/Saving%201%20million.PNG)
 
+Please reach out if you have any questions on the use of our code @ alexgwise@gmail.com and thanks for using our Robo Advisor program!
 
 # ***Info for Instructors*** #
 
